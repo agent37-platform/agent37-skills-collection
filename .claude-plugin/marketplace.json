@@ -18,7 +18,7 @@
       "name": "local-review",
       "source": "./plugins/local-review",
       "description": "Code review uncommitted local changes for bugs, security vulnerabilities, and CLAUDE.md compliance",
-      "version": "1.0.0",
+      "version": "1.1.0",
       "keywords": ["code-review", "git", "security", "bugs", "typescript"]
     },
     {
